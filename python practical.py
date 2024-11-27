@@ -1,4 +1,4 @@
-"""
+
 #1 temperature convertion
 #CODING
 print("Enter 'c' to convert Celsius to Fahrenheit")
@@ -14,7 +14,7 @@ elif choice=='f':
     print('%.2f Fahrenheit is: %0.2f Celsius'%(fahrenheit,celsius))
 else:
     print('Invalid Input')
-"""
+
 #2
 a=int(input('Enter the marks obtained insubject 1:'))
 b=int(input('Enter the marks obtained insubject 2:'))
