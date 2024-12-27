@@ -67,7 +67,6 @@ class Clothing(Product):
 e=Electronics("k6789","Mobile",13000,"1 year","POCO")
 e.displayElectronics()
 print()
-c=Clothing("k6789","Dress",400,"M","cotton")
+c=Clothing("k6789","Dress",600,"M","organza")
 c.displayClothing()
-        
-        
+
